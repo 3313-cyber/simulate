@@ -5,6 +5,7 @@ import control as ct
 
 t=np.linspace(0, 10, 1000)
 
+#K:该系统增益
 K=1
 T=[0.5,1,2,3,4]
 color=['r','g','b','m','c']
